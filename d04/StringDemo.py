@@ -17,3 +17,8 @@ print(str[4])
 print(str[-4])
 print(str[1:4])
 print(str[:4])
+
+path = r"c:\nba\ticket"
+print(path)
+path = "c:\\nba\\ticket"
+print(path)
